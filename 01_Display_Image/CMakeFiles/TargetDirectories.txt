@@ -1,0 +1,3 @@
+/home/kobe/Documents/OpenCV_Tutorial/01_Display_Image/CMakeFiles/rebuild_cache.dir
+/home/kobe/Documents/OpenCV_Tutorial/01_Display_Image/CMakeFiles/DisplayImage.dir
+/home/kobe/Documents/OpenCV_Tutorial/01_Display_Image/CMakeFiles/edit_cache.dir
